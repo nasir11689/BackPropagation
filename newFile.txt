@@ -1,13 +1,9 @@
+<<<<<<< HEAD
 cefuihwerf
 rvferivnetr
 ervetrjetr
 ervebhjet
-evefrefr
+THis line was modified manually during conflict resolution.
 
-\\\cvdfvc\\
-\\
-\\
-cvfdvbef
-//
-Kurlus Osman bey
-Abdur rehman ghazi
+
+>>>>>>> c368741a0ef09fd6a853811978cc8e6fa2798cdd
