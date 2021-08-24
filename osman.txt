@@ -2,8 +2,6 @@ cedfwe
 frvf
 vef
 vf
-vf
-
 $
 
 %
@@ -16,3 +14,4 @@ $
 |
 ||~~~
 ```
+This line was added in feature 12 branch.
